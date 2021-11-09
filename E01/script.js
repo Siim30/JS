@@ -7,4 +7,8 @@ function sum3(a, b, c){
 console.log(sum3(1,2,3));
 console.log(sum3("this", "is", "test"));
 
-console.log(sum3(7,8,10));
+
+function sum3(a, b, c){
+    return 1 + 2 + 3;
+}
+console.log(sum3(1,2,3));
